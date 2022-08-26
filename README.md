@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/nhex1348btd9ibfa?svg=true)](https://ci.appveyor.com/project/DashaSlesareva/cardorder)
+[![Build status](https://ci.appveyor.com/api/projects/status/71yyygtlbf2b5j70?svg=true)](https://ci.appveyor.com/project/DashaSlesareva/cardorder)
